@@ -157,7 +157,7 @@ With functionalities such as:
 
 ### Suraj Rawat
 
-Frontend Developer & CSE Student
+Frontend Developer & BCA Student
 
 🔗 Live Project:
 https://codealpha-music-player-using-java-s.vercel.app/
