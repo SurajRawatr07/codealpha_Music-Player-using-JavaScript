@@ -1,4 +1,4 @@
-# codealpha_Music-Player-using-JavaScript# 🎵 Music Player Using JavaScript
+ 🎵 Music Player Using JavaScript
 
 <div align="center">
 
@@ -17,13 +17,7 @@ A feature-rich Music Player built using **HTML, CSS, and JavaScript** with inter
 
 ---
 
-## 📸 Project Preview
 
-![Music Player](https://via.placeholder.com/1000x500?text=Music+Player+Preview)
-
-> Replace the above image link with your actual project screenshot.
-
----
 
 ## ✨ Features
 
